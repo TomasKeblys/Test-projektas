@@ -1,2 +1,1 @@
-labas
-viso
+labas viso gero
