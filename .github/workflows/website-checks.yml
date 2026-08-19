@@ -21,7 +21,7 @@ jobs:
  
       - name: Check that HTML tag exists
 
-        run: grep -qi "<html" index.html
+        run: grep -qi "<html" index.html | wc -n
  
       - name: Check that H1 exists
 
